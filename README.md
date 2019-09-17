@@ -1,3 +1,7 @@
+This repository has UPM support. Use https://github.com/mob-sakai/UpmGitExtension for installing it directly in Unity.
+
+----
+
 UniRx - Reactive Extensions for Unity
 ===
 Created by Yoshifumi Kawai(neuecc)
